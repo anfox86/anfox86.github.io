@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://github.com/anfox86/anfox86.github.io/blob/master/assets/images/13241324_10100640137391952_7774546047645706848_n.jpg
+heroimage: assets/images/KC_skyline.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname: Andrea
 # Name of the Author
 author-name: Andrea Fox
 # URL for the Image of the Author
-author-image: https://github.com/anfox86/anfox86.github.io/blob/master/assets/images/197487274_10102220843668902_9209316667991682313_n.jpg
+author-image: assets/images/profile_pic.jpg
 # 60 Words About the Author
 author-about: I am completing my Masters of Science in Data Science at Bellevue University. I currently work for Cerner, a healthcare software company, specifically creating the standard for how clients should use our Patient Accounting solutions.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
