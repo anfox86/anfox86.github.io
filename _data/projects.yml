@@ -35,6 +35,6 @@
   link: https://github.com/anfox86/Gun-Violence-in-Kansas-City
   description: The amount of crime in Kansas City has increased in the last few years. This project was to show that it was not all gun related, which is the media's story.
 - name: Python Weather Application
-  image: https://github.com/anfox86/anfox86.github.io/blob/master/assets/images/weather.jpg
+  image: assets/images/weather.jpg
   link: https://github.com/anfox86/Python-Weather-Application
   description: Simple application done in Python to check a location's weather.
