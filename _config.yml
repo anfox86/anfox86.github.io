@@ -18,21 +18,18 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: assets/images/KC_skyline.jpg
+heroimage: https://raw.githubusercontent.com/anfox86/anfox86.github.io/master/assets/images/KC_skyline.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: andrea.fox26@outlook.com
 facebook_username: 
-twitter_username: 
+twitter_username: @brokenfox26
 instagram_username: 
-linkedin_username: https://www.linkedin.com/in/andrea-fox-0b0b3a89/
+linkedin_username: www.linkedin.com/in/andrea-fox86
 github_username:  anfox86
 youtube_channel_id: 
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+
 
 # Google Analytics
 google-analytics: UA-163806439-1
