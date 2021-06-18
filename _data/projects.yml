@@ -7,15 +7,15 @@
   link: https://github.com/anfox86/Placeholder-680-Project-2
   description: In Progress. Please Check Back Later.
 - name: Predicting the US State with the Highest Traffic Accident Rate
-  image: assets/images/traffic accidents.jpg
+  image: assets/images/traffic_accidents.jpg
   link: https://github.com/anfox86/Predicting-the-US-State-with-Highest-Traffic-Accident-Rate
   description: This project is trying to predict the state with the highest traffic accident rate using existing data.
 - name: Airline Safety
-  image: assets/images/airline safety.jpg
+  image: assets/images/airline_safety.jpg
   link: https://github.com/anfox86/Airline-Safety
   description: This project was to prove that the media claim of numerous air traffic accidents was incorrect.
 - name: Predicting Hospital Readmissions to Prevent Them
-  image: assets/images/hospital readmission.jpg
+  image: assets/images/readmission.jpg
   link: https://github.com/anfox86/Predicting-Hospital-Readmissions-to-Prevent-Them
   description: This project was a group project. We tried to predict whether a diabetic patient would be readmitted.
 - name: Predicting Survival on the Titanic
