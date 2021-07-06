@@ -6,32 +6,32 @@
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://github.com/anfox86/Placeholder-680-Project-2
   description: In Progress. Please Check Back Later.
-- name: Predicting the US State with the Highest Traffic Accident Rate
-  image: assets/images/traffic_accidents.jpg
-  link: https://github.com/anfox86/Predicting-the-US-State-with-Highest-Traffic-Accident-Rate
+- name: Accident Rate and Severity - US Traffic Accident Rates
+  image: assets/images/traffic.jpg
+  link: https://github.com/anfox86/US-Traffic-Accident-Rates
   description: This project is trying to predict the state with the highest traffic accident rate using existing data.
 - name: Airline Safety
-  image: assets/images/airline_safety.jpg
+  image: assets/images/airline.jpg
   link: https://github.com/anfox86/Airline-Safety
   description: This project was to prove that the media claim of numerous air traffic accidents was incorrect.
 - name: Predicting Hospital Readmissions to Prevent Them
-  image: assets/images/readmission.jpg
+  image: assets/images/hospital.jpg
   link: https://github.com/anfox86/Predicting-Hospital-Readmissions-to-Prevent-Them
   description: This project was a group project. We tried to predict whether a diabetic patient would be readmitted.
 - name: Predicting Survival on the Titanic
-  image: assets/images/titanic2.jpg
+  image: assets/images/titanic.jpg
   link: https://github.com/anfox86/Predicting-Survival-on-the-Titanic
   description: This project tried to predict the likelyhood of survival for a passenger on the Titanic.
 - name: Working with Covid-19 Data
-  image: assets/images/CoronavirusBall_red_CDChighrez.png
+  image: assets/images/covid.jpg
   link: https://github.com/anfox86/Working-with-Covid-19-Data
   description: This project was to pull data from at minimum three different sources, clean it, and then combine into one main dataset.
-- name: Does a State's Poverty Level Affect SNF Medicare Reimbursements?
+- name: Does a States Poverty Level Affect SNF Medicare Reimbursements?
   image: assets/images/medicare.jpg
   link: https://github.com/anfox86/Does-a-State-s-Poverty-Level-Affect-SNF-Medicare-Reimbursements-
   description: This project looked at the top 10 richest and poorest states to find out whether Medicare reimbursements changed for Skilled Nursing Facilities.
 - name: Gun Violence in Kansas City
-  image: assets/images/Gun-control-thumbnail.jpg
+  image: assets/images/gun.jpg
   link: https://github.com/anfox86/Gun-Violence-in-Kansas-City
   description: The amount of crime in Kansas City has increased in the last few years. This project was to show that it was not all gun related, which is the media's story.
 - name: Python Weather Application
