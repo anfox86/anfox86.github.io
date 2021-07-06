@@ -2,7 +2,6 @@
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://github.com/anfox86/Placeholder-680-Project-3
   description: In Progress. Please Check Back Later.
-  photo_credit: testing
 - name: Placeholder Project 2
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://github.com/anfox86/Placeholder-680-Project-2
@@ -10,7 +9,7 @@
 - name: Accident Rate and Severity - US Traffic Accident Rates
   image: assets/images/traffic.jpg
   link: https://github.com/anfox86/US-Traffic-Accident-Rates
-  description: This project is trying to predict the state with the highest traffic accident rate using existing data.
+  description: This project is trying to predict the state with the highest traffic accident rate using existing data. Photo by Maxim Abramov on Unsplash. 
 - name: Airline Safety
   image: assets/images/airline.jpg
   link: https://github.com/anfox86/Airline-Safety
