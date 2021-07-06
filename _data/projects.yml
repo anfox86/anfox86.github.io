@@ -9,7 +9,7 @@
 - name: Accident Rate and Severity - US Traffic Accident Rates
   image: assets/images/traffic.jpg
   link: https://github.com/anfox86/US-Traffic-Accident-Rates
-  description: This project is trying to predict the state with the highest traffic accident rate using existing data. Photo by Maxim Abramov on Unsplash. 
+  description: This project looks at traffic accident rates.  
 - name: Airline Safety
   image: assets/images/airline.jpg
   link: https://github.com/anfox86/Airline-Safety
